@@ -23,7 +23,6 @@ function winnerCalculator(squares: Player[]){
       }
       return null;
     }
-
 function Board(){
     const [squares, setSquares] = useState(Array(9).fill(null))
     const [currentPlayer, setCurrentPlayer] = useState<"X" | "O">(
