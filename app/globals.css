@@ -1,0 +1,35 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    font-size: 5rem;
+    color: gainsboro;
+    border: solid 1.5px black;
+}
+
+.square_o{
+    background-color: rgb(10, 188, 10);
+}
+
+.square_x{
+    background-color: rgb(190, 25, 25);
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2rem;
+}
+
+.reset{
+    margin-top: 1rem;
+    font-size: 1rem;
+    background-color: rgb(51, 167, 234);
+    border: none;
+    border-radius: 6px;
+    padding: 1rem;
+    cursor: pointer;
+}
