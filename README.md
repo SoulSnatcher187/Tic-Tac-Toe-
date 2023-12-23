@@ -1,3 +1,4 @@
+![Screenshot_1](https://github.com/SoulSnatcher187/Tic-Tac-Toe-/assets/116718287/5e90e2fb-96a4-405a-9c2e-8553e749db28)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
